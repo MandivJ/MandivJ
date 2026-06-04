@@ -39,7 +39,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MandivJ&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=MandivJ&theme=tokyo-night"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandivJ&layout=compact&theme=tokyonight"/>
 </p>
 
@@ -48,7 +48,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MandivJ&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=MandivJ&theme=tokyonight"/>
 </p>
 
 ---
